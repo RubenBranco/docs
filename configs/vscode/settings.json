@@ -1,0 +1,22 @@
+{
+    "workbench.colorTheme": "Material Theme",
+    "files.autoSave": "afterDelay",
+    "editor.fontFamily": "Consolas, 'Courier New', monospace",
+    "editor.fontSize": 14,
+    "editor.tabSize": 4,
+    "extensions.autoUpdate": true,
+    "problems.decorations.enabled": true,
+    "window.zoomLevel": 0,
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+      },
+      "html.autoClosingTags": true,
+      "html.suggest.html5": true,
+      "php.suggest.basic": true,
+      "php.validate.enable": true,
+      "php.validate.run": "onSave",
+}
