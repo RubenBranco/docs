@@ -41,6 +41,7 @@ In tmux, hit the prefix `ctrl+b` and then:
     &           kill window
     .           move window - prompted for a new number
     :movew<CR>  move window to the next unused number
+    ctrl+b PgUp PgDn scroll in a window
 
 ## Panes (splits)
 
